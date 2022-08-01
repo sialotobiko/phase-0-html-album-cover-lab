@@ -110,3 +110,11 @@ img {
   margin-left: 163px;
   padding-top: 25px;
 }
+.top h1{
+  font-size: 45pt;
+}
+.bottom{
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
